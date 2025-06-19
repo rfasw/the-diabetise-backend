@@ -1,5 +1,5 @@
 flask==2.3.2
-tensorflow-cpu==2.10.0  # Known stable version for most environments
+tensorflow==2.10.0  # Main package instead of tensorflow-cpu
 numpy==1.23.5
 scikit-learn==1.2.2
 joblib==1.2.0
