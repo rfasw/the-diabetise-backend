@@ -1,5 +1,5 @@
 flask==2.3.2
-tensorflow-cpu==2.12.x  # Last version with Python 3.9 support
+tensorflow-cpu==2.12.1
 numpy==1.23.5
 scikit-learn==1.2.2
 joblib==1.2.0
