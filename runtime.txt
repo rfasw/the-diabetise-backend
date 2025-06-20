@@ -1,1 +1,2 @@
-python-3.10.12
+# If TF is too big, use ONNX runtime instead:
+onnxruntime==1.15.1
